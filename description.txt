@@ -1,0 +1,2 @@
+một cái music_player đơn giản có chức năng 
+play , play 1 bài , trộn bải ... và một vài UI đơn giản : 
